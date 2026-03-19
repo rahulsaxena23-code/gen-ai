@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "sales-records-mcp-server": {
+      "type": "sse",
+      "url": "http://localhost:8080/sse"
+    }
+  }
+}
